@@ -1,0 +1,4 @@
+8c9c78de65ea3786f987c0d980e9c1b13a3a5fbc6b3e2965ba05b450e6e4c054  1.23.2/osx-x86_64/libonnxruntime.dylib
+7e17c55d675be73f67a218dbecb55522395f61dafb3da03ebc7ade56a4c2f813  1.31.1/linux-aarch64/libonnxruntime.so
+a96f132e5eb5ca04e23a7d2fc1078fb95aa591e8d71d0f237702ece3a1e0f4ea  1.31.1/linux-x64/libonnxruntime.so
+17500d6b1e37e70f43a2c57d94233a1bc29fbcb297be0a5f8c7c13184f3307ba  1.31.1/osx-arm64/libonnxruntime.dylib
